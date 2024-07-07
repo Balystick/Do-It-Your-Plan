@@ -13,10 +13,6 @@ Principales fonctionnalités :
 - Stimuler l’inspiration
 - Gamification
 
-<a href="https://www.balystick.fr/Github/Do%20It%20Your%20Plan%20-%20Pr%C3%A9sentation.mp4">
-    Présentation du projet
-</a>
-
 <div align="center">
 <br><br><a href="https://www.balystick.fr/Github/Do%20It%20Your%20Plan.mp4">
     <img src="https://www.balystick.fr/Github/Do%20It%20Your%20Plan_img.png" alt="Aperçu de l'application" style="width:340px">
